@@ -6,16 +6,17 @@ Welcome to my GitHub! I am a passionate programmer and lifelong learner, explori
 
 ## 🔧 Languages & Technologies
 
+### Languages I Use
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)  
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+### Currently Learning
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ---
 
