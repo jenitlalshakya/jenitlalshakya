@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Jenit Lal Shakya
+**A passionate Web Developer and Enthusiast**
+
+Email Me 👉 ✉️ **shakyajenit@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** React App Development
+- 🌱 **I’m currently learning:** C++, React
+- 💬 **Ask me about:** Collaboration
+- 📫 **How to reach me:** shakyajenit@gmail.com
+- 😄 **Pronouns:** Jenit
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jenit_lal_shakya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakyajenit@gmail.com) 
@@ -8,6 +19,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=jenitlalshakya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jenitlalshakya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenitlalshakya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jenitlalshakya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
