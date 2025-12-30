@@ -1,29 +1,46 @@
-# 👋 Hi, I'm Jenit Lal Shakya
+# Hi there, I'm Jenit Lal Shakya 👋
 
-I am a **BIM / BITM student** with a strong interest in **software development and web technologies**.  
-I enjoy learning by building projects and continuously improving my problem-solving and programming skills.
-
-## 🎓 Academic Background
-- Bachelor’s student in **BIM / BITM**
-- Focused on programming fundamentals, databases, and web development
-
-## 💻 Technical Skills
-- **Programming Languages:** C, Java, Python  
-- **Web Development:** HTML, CSS, JavaScript, NodeJS
-- **Databases:** MySQL (basic understanding)  
-- **Tools & Concepts:** Git, GitHub, problem solving, debugging
-
-## 🚀 What I’m Working On
-- Strengthening core programming concepts  
-- Building small to medium-scale projects  
-- Exploring backend development and databases  
-- Improving clean code and best practices
-
-## 📌 Goals
-- Gain real-world development experience  
-- Contribute to meaningful projects  
-- Continuously learn new technologies and frameworks
+Welcome to my GitHub! I am a passionate programmer and lifelong learner, exploring various technologies and building projects that solve real-world problems.  
 
 ---
 
-📫 *Feel free to explore my repositories and connect with me.*
+## 🔧 Languages & Technologies
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+---
+
+## 📈 GitHub Stats
+
+![Jenit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenitlalshakya&show_icons=true&theme=radical)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=jenitlalshakya&color=blue)
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-stack developer with a love for Python and web technologies.  
+- 🌱 Currently exploring AI, Docker, and cloud deployments.  
+- 📫 Reach me at: **[shakyajenit@gmail.com](mailto:shakyajenit@gmail.com)**  
+
+---
+
+### Let's Connect  
+
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  -->
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jenit_lal_shakya)
