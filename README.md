@@ -4,7 +4,7 @@ I am a **BIM / BITM student** with a strong interest in **software development a
 I enjoy learning by building projects and continuously improving my problem-solving and programming skills.
 
 ## 🎓 Academic Background
-- Bachelor’s student of **BIM / BITM** in **Oxford College, Butwal**
+- Bachelor’s student in **BIM / BITM**
 - Focused on programming fundamentals, databases, and web development
 
 ## 💻 Technical Skills
