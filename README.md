@@ -21,6 +21,7 @@ Email Me 👉 ✉️ **shakyajenit@gmail.com** For Collaboration/Project or Anyt
   <img src="https://github-readme-stats.vercel.app/api?username=jenitlalshakya&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=jenitlalshakya&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenitlalshakya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=jenitlalshakya&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <!-- Snake Game Repo View -->
@@ -31,11 +32,6 @@ Email Me 👉 ✉️ **shakyajenit@gmail.com** For Collaboration/Project or Anyt
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jenitlalshakya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenitlalshakya&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
