@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **shakyajenit@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** React App Development
-- 🌱 **I’m currently learning:** React
+- 🔭 **I’m currently working on:** React.js and Next.js App Development
+- 🌱 **I’m currently learning:** React.js, Next js
 - 💬 **Ask me about:** Collaboration
 - 📫 **How to reach me:** shakyajenit@gmail.com
 - 😄 **Pronouns:** Jenit
